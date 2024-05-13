@@ -93,6 +93,7 @@
         android:weightSum="4">
 
         <TextView
+            android:id="@+id/7"
             android:layout_width="0dp"
             android:layout_height="@dimen/_50sdp"
             android:layout_weight="1"
@@ -105,6 +106,7 @@
             android:background="@drawable/box"/>
 
         <TextView
+            android:id="@+id/8"
             android:layout_width="0dp"
             android:layout_height="@dimen/_50sdp"
             android:layout_weight="1"
@@ -117,6 +119,7 @@
             android:background="@drawable/box"/>
 
         <TextView
+            android:id="@+id/9"
             android:layout_width="0dp"
             android:layout_height="@dimen/_50sdp"
             android:layout_weight="1"
@@ -151,6 +154,7 @@
         android:weightSum="4">
 
         <TextView
+            android:id="@+id/4"
             android:layout_width="0dp"
             android:layout_height="@dimen/_50sdp"
             android:layout_weight="1"
@@ -163,6 +167,7 @@
             android:background="@drawable/box"/>
 
         <TextView
+            android:id="@+id/5"
             android:layout_width="0dp"
             android:layout_height="@dimen/_50sdp"
             android:layout_weight="1"
@@ -175,6 +180,7 @@
             android:background="@drawable/box"/>
 
         <TextView
+            android:id="@+id/6"
             android:layout_width="0dp"
             android:layout_height="@dimen/_50sdp"
             android:layout_weight="1"
@@ -208,6 +214,7 @@
         android:weightSum="4">
 
         <TextView
+            android:id="@+id/1"
             android:layout_width="0dp"
             android:layout_height="@dimen/_50sdp"
             android:layout_weight="1"
@@ -220,6 +227,7 @@
             android:background="@drawable/box"/>
 
         <TextView
+            android:id="@+id/2"
             android:layout_width="0dp"
             android:layout_height="@dimen/_50sdp"
             android:layout_weight="1"
@@ -232,6 +240,7 @@
             android:background="@drawable/box"/>
 
         <TextView
+            android:id="@+id/3"
             android:layout_width="0dp"
             android:layout_height="@dimen/_50sdp"
             android:layout_weight="1"
@@ -266,6 +275,7 @@
         android:weightSum="4">
 
         <TextView
+            android:id="@+id/0"
             android:layout_width="0dp"
             android:layout_height="@dimen/_50sdp"
             android:layout_weight="2"
@@ -278,6 +288,7 @@
             android:background="@drawable/box"/>
 
         <TextView
+            android:id="@+id/dot"
             android:layout_width="0dp"
             android:layout_height="@dimen/_50sdp"
             android:layout_weight="1"
@@ -290,6 +301,7 @@
             android:background="@drawable/box"/>
 
         <TextView
+            android:id="@+id/result"
             android:layout_width="0dp"
             android:layout_height="@dimen/_50sdp"
             android:layout_weight="1"
